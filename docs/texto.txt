@@ -1,0 +1,90 @@
+Cevicheria "La Peña del Rey"
+
+direccion:Av. Alcaparras 527, San Juan de Lurigancho 15401
+
+
+
+<!--ENTRADAS-->
+
+S/10.00     Causa
+S/12.00     Choritos a la Chalaca                
+S/10.00     Leche de Tigre
+S/10.00     Leche de Pantera                           
+
+
+
+<!--SOPAS-->
+
+S/12.00     Chilcano especial
+S/18.00     Chupe
+S/18.00     Jalea mixta
+S/25.00     Sudado
+S/28.00     Parihuela
+
+
+
+<!--PLATOS DE COMIDA-->
+
+S/12.00     Ceviche de pota
+S/15.00     Ceviche pescado
+S/18.00     Ceviche pescado + chicharrones
+S/15.00     Ceviche mixto
+S/18.00     Ceviche mixto + chicharron
+S/18.00     Leche de tigre + chicharron
+S/16.00     Ceviche de conchas negras
+
+
+
+<!--BEBIDAS-->
+
+S/3.00 / 8.00       Coca cola 500ml/1lt.
+S/3.00 / 8.00       Inca cola 500ml/1lt.
+S/6.00              Cerveza Cristal
+S/7.00              Cerveza Pilsen 
+S/8.00              Cusqueña negra 
+S/15.00             Jarra de Chica Morada 
+
+
+
+<!--PROMOCIONES-->
+
+s/24.90     ceviche de pescado + arroz con marisco + gaseosa de litro
+s/30.90     ceviche + arroz con conchas negras + chicharron + jarra de chicha      
+s/19.90     jalea mixta + gaseosa de 500ml
+s/19.90     chupe  + gaseosa de 500ml
+
+Trios Marinos
+
+S/20.00     Ceviche + arroz con marisco + chicharron
+S/20.00     Ceviche + arroz chaufa + chicharron
+S/22.00     Ceviche + causa + chicharron
+S/22.00     Ceviche + chilcano + chicharron
+S/20.00     Leche de tigre + arroz con marisco + chicharron
+S/20.00     Leche de tigre + arroz chaufa + chicharron
+S/22.00     Ceviche + arroz con marisco o arroz chaufa + chicharron + Chilcano
+S/25.00     Conchas negras + arroz con marisco + chicharron
+S/25.00     Conchas negras + arroz chaufa + chicharron
+S/25.00     Conchas negras + causa + chicharron
+
+
+Promo almuerzo
+
+3x2 En jarras de chicha
+LLevate 1 chilcano clasico por al compra de 2 especiales
+Leche + causa a S/12.00 todos los viernes
+
+
+
+<!--LLEVALO O PIDE POR DELIVERY-->
+
+visitanos en nuestros locales:
+
+O pide tu comida al siguiente numero: 9## ### ###
+Buscanos Tambien en la app de Rappi/PedidosYa
+Recuerda que aceptamos todo tipo de pagos *logos*
+
+
+Sobre nosotros
+Trabaja con nosotros
+
+
