@@ -1,2 +1,1 @@
-# tarea2
-my humility repository :)
+HOla chicos aqui pondran sus archivos editados y claro lo mencionan
