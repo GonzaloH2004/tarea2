@@ -1,0 +1,167 @@
+<--------------------------------------ENTREVISTA---------------------------------------->
+Nombre del Dueño:       Juan Carlos.
+Lugar de origen:        Chiclayo - Lambayeque - Peru.
+Estadia en Lima:        Llego casi a los 17 a lima y ya lleva casi 20 años.
+Estudios:               Estudio gastronomia en un instituto tecnico.
+Apertura de local:      Abrio desde hace 4 meses, en Junio.
+Direccion del local:    Av. Las Flores de Primavera 697, San Juan de Lurigancho 15408
+
+Inspiracion: 
+Llega a raiz de experiencia trabajando en otros locales, pero ahora si cuenta con uno propio lo que sus 18 años de experiencia en la cocina lo ayuda al cocinar en su propio locales.
+
+Los mas vendidos:
+Chaufa, Aereopuerto, Chi Jau Kay.
+Ceviche, Sudado, Parihuela, Jalea, Causa acevichada.
+
+PROMOCIONES:
+El restaurante ofrece promociones en bandejas de comida + bebidas en fechas especiales como el Dia del Padre, Dia de la Madre, San Valentin, etc.
+
+HORARIO:
+- Abre a las 10am y cierra a las 12am.
+- cevicheria 10am - 2pm.
+- comida oriental 4pm - 12pm.
+- atencion todos los dias.
+
+Motivo de fusion de ambos estilos de comida:
+Antes de abrir, noto que los restaurantes de la zona solo se dedican a una sola cosa, la gente suele querer variedad, asi que asumio el reto de tener durante el dia Comida Marina y de la tarde hasta la noche Comida Oriental.
+<----------------------------------------------------------------------------------------->
+
+
+
+<---------------------------------RESTAURANTE - CEVICHERIA-------------------------------->
+PLATILLOS MARINOS:                         PLATILLOS CRIOLLOS:
+S/25.00    Ceviche de pescado              S/16.00    Trucha frita
+S/28.00    Ceviche mixto                   S/13.00    Churrasco a la parrilla
+S/25.00    Ceviche de Conchas negras       S/18.00    Arroz con pato     
+S/30.00    Trio marino                     S/20.00    Lomo saltado
+S/28.00    Mixto marino                    S/15.00    Tallarin saltado
+S/25.00    jalea                           S/12.00    Arroz chaufa 
+S/20.00    Chicharron de pescado           S/15.00    Pollo a la plancha 
+S/15.00    Sudado de cabrilla              S/22.00    Cuy frito 
+S/25.00    Parihuela                       S/10.00    Pollo broaster 
+S/14.00    Leche de tigre              
+S/15.00    Tiradito              
+S/26.00    Arroz c/ mariscos              
+S/22.00    Chaufa de mariscos              
+S/15.00    Chita frita
+S/16.00    Chupe de pescado
+
+COCTELES:                                  BEBIDAS:
+Pisco sour                                 Gaseosas
+Machupicchu                                Chicha morada
+Mojito                                     Limonada Frozen
+Chilcano de limon y maracuya               Agua mineral
+Tequila sunrise                            Cervezas
+Cuba libre
+Margarita corona
+Piña colada
+Martini                         
+<----------------------------------------------------------------------------------------->
+
+
+
+
+
+
+<-----------------------------------RESTAURANTE - CHIFA----------------------------------->
+PLATILLOS:
+S/15.00    Tallarin chino c/ pollo   
+S/14.00    Combinado (chaufa y tallarin)
+S/15.00    Tallarin saltado de pollo
+S/12.00    Tortilla de verduras (chaufa o arroz blanco)
+S/12.00    Caldo de gallina
+S/7.00     Caldo solo
+S/10.00    Caldo c/ presa Chicha
+S/18.00    Chicharrorn de pescado
+S/10.00    Chaufa de pollo
+S/13.00    Chaufa de chancho
+S/13.00    Chaufa de carne
+S/18.00    Ti Pa Kay
+S/18.00    Chi Jau Kay
+S/22.00    Limon Kay
+S/13.00    Aereopuerto
+S/15.00    Saltado de verduras c/ arroz blanco
+S/18.00    Lomo saltado de carne/pollo
+S/15.00    Pechuga a la plancha c/ papa
+S/12.00    Moustrito c/ chaufa
+S/10.00    broaster
+
+BEBIDAS HELADAS:                         BEBIDAS CALIENTES:
+Agua cielo                               Anis
+Inka Cola 650ml                          Manzana
+Coca Cola 650ml                          Te
+Inka Cola Gordita                        Cafe 
+Guarana personal                 
+<----------------------------------------------------------------------------------------->
+
+
+<!DOCTYPE html>
+<html lang="es-PE">
+    <head>
+        <meta charset="UTF-8">
+        <title>Menu</title>
+        <link rel="stylesheet" href="../css/menu.css">
+    </head>
+
+    <body>
+        <div id="contenedor">
+
+            <!--Aqui va todo nuestro HEADER de la pag de inicio-->
+            <header>
+                <img src="../img/fondos/banner.jpeg" alt="">
+            </header>
+
+            <nav class="inicio">
+                <ul>
+                    <li><a href="./Index.html">Inicio</a></li>
+                    <li><a href="../html/Menu.html">Menu</a></li>
+                    <li><a class="inicio" href="./Promociones.html">Promociones</a></li>
+                    <li><a href="./Delivery.html">Delivery</a></li>
+                </ul>
+            </nav>
+            
+
+            <main>
+            
+            
+
+
+            <h1>AQUI VA SU CODIGO PERSONAL ED CADA UNO</h1>
+
+
+
+
+            </main>
+
+
+
+
+            <footer>
+            <div class="footerS">
+                <h3>Direccion</h3>
+                <p>Av. Las Flores de Primavera 697, San Juan de Lurigancho 15408</p>
+            </div>
+            <div class="footerS">
+                <h3>Horarios de atencion</h3>
+                <p>De Lunes a Domingo de 10:00 am a 12:00 am</p>
+            </div>
+            <div class="footerS">
+                <h3>Contactanos</h3>
+                <p>Delivery</p>
+                <p>Servicio al cliente</p>
+                <p>Reclamos</p>
+            </div>
+            </footer>
+
+            <div class="fimg">
+                <a href=""><img src="../img/redes/redes-1.png" alt=""></a>
+                <a href=""><img src="../img/redes/redes-2.png" alt=""></a>
+                <a href=""><img src="../img/redes/redes-3.png" alt=""></a>
+                <a href=""><img src="../img/redes/redes-4.png" alt=""></a> 
+                <p >&copy; 2024 "El mar y cielo".</p>
+                
+            </div>
+            
+        </div>
+    </body>
+</html>

@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #1b3179;
+}
+#contenedor {
+  width: 98%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 6px solid #0e193d;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background-color: #DFCEB0;
+}
+
+
+  header img {
+    width: 100%;
+    vertical-align: bottom;
+  }
+  nav.inicio ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b93136;
+  }
+  nav.inicio ul li {
+    float: left;
+  }
+  nav.inicio ul li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: bold;
+    font-size: 23px;
+    font-weight: bold;
+  }
+  nav.inicio ul li a:hover {
+    background-color: #ffffff ;
+    color:#ff0000 ;
+  }
+  li a:hover:not(.inicio) {
+    background-color: #111;
+  }
+  
+  .inicio {
+    background-color: #f18184;
+    color: black;
+  }
+  
+  
+  body {
+    background-image: linear-gradient(to bottom, #87CEEB, #d75252);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    
+    .contenedor {
+    max-width: 1400px;
+    margin: 40px auto;
+    text-align: center;
+    background-color: #53e7e2;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    background-image: linear-gradient(to bottom, #7cc0c4, #ffffff);
+    }
+    
+    .titulo {
+    color: #032B44;
+    margin-bottom: 30px;
+    font-size: 48px;
+    text-shadow: 2px 2px 5px #f7ff08c9;
+    font-weight: bold;
+    text-align: center;
+    }
+    
+    .subtitulo {
+    font-size: 30px;
+    color: #791919;
+    margin-bottom: 60px;
+    text-align: center;
+    }
+    
+    .imagenes {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    }
+    
+    .imagen {
+    margin: 20px;
+    display: inline-block;
+    text-align: center;
+    }
+    
+    .imagen img {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(221, 248, 47, 0.97);
+    }
+    
+    .boton-pedido {
+    background-color: #FFC107;
+    color: #140909;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+    
+    .boton-pedido:hover{
+      background-color: rgb(242, 108, 12);
+      border-radius:10px;
+      border:none;
+  
+    }
+  
+    footer {
+      background-color: rgb(43, 47, 53);
+      color: azure;
+      display: flex;
+  }
+  .footerS {
+      width: 100%;
+      display: block;
+      margin-top: 30px;
+      margin-bottom: 15px;
+      margin-left: 50px;
+      margin-right: 0;
+  }
+  .footerS h3 {
+      padding-bottom: 15px;
+  }
+  .footerS ul {
+      margin-left: 20px;
+  }
+  div.fimg {
+      background-color: rgb(43, 47, 53);
+      color: rgb(224, 177, 75);
+      text-align: center;
+      border-bottom-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+  }
+  .fimg p {
+      padding: 15px;
+  }
+  .fimg a img {
+      padding-top: 15px;
+  }
